@@ -2,8 +2,6 @@ var V2Ray = "SOCKS5 127.0.0.1:1081; SOCKS 127.0.0.1:1081; DIRECT;";
 
 var domains = [
     "vpngate.net",
-    
-    
 	"greatfire.org",
 	"tox.im",
 	"proxifier.com",
@@ -25,6 +23,10 @@ var domains = [
 	"shadowx.work",
 	"v2ray.com",
 	"astrill.com",
+	"goabstract.com",
+	"abstract.com",
+	"pusher.com",
+	
 
     //Design
     
@@ -39,7 +41,7 @@ var domains = [
 	"tumblr.com", 
 	"flickr.com",
 	"imgur.com",
-
+	"goabstract.com",
 	"evozi.com",
 	"live.com",
 	"1drv.com",
